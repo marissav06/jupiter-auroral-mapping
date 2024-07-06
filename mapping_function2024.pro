@@ -176,6 +176,7 @@
 ;   Calls routines: atan2, point_inside_polygon
 ;
 ;   The program reads in data from files called sslong0_gam.sav, sslong10_jrm09.sav, etc., which should be placed in an appropriate directory on the user's machine.
+;   These files 
 ;   ***Before running this program the user will have to replace the directory_name variable in the code (see line 233).
 ;
 ; ACKNOWLEDGMENTS
@@ -190,7 +191,6 @@
 ;   Vogt, M. F., E. J. Bunce, M. G. Kivelson, K. K. Khurana, R. J. Walker, A. Radioti, B. Bonfond, and D. Grodent (2015), 
 ;   Magnetosphere-ionosphere mapping at Jupiter: Quantifying the effects of using different internal field models, 
 ;   J. Geophys. Res. Space Physics, 10.1002/2014JA020729
-;
 ;
 ; Most recent changes:
 ;   (March 2024)
