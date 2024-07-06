@@ -39,10 +39,12 @@ Updates since 2017 version:
 
 
 ACKNOWLEDGMENTS
+
 Thanks to Bertrand Bonfond, Benjamin Palmaerts, and Andrew Steffl for helping to test early versions of this code and the online mapping tool. Very special thanks to Masafumi Imai for assistance implementing the JRM09 field model (2019).
 
 
 REFERENCES
+
 Vogt, M. F., M. G. Kivelson, K. K. Khurana, R. J. Walker, B. Bonfond, D. Grodent, and A. Radioti (2011), Improved mapping of Jupiter’s auroral features to magnetospheric sources, J. Geophys. Res., 116, A03220, doi:10.1029/2010JA016148, http://onlinelibrary.wiley.com/doi/10.1029/2010JA016148/abstract
 
 Vogt, M. F., E. J. Bunce, M. G. Kivelson, K. K. Khurana, R. J. Walker, A. Radioti, B. Bonfond, and D. Grodent (2015), Magnetosphere-ionosphere mapping at Jupiter: Quantifying the effects of using different internal field models, J. Geophys. Res. Space Physics, 10.1002/2014JA020729, http://onlinelibrary.wiley.com/doi/10.1002/2014JA020729/abstract
