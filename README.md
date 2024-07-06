@@ -10,7 +10,7 @@ This mapping program allows a user to magnetically map a point between Jupiter's
 Running the mapping program requires several files:
 * mapping_function2024.pro: This is the function used to do the mapping.
 * Two IDL routines (atan2, point_inside_polygon) called by mapping_function.pro
-* A set of precalculated contour files (IDL .sav format) that can be downloaded at These files can be downloaded from bit.ly/mappingfiles2024 (updated links will be posted on marissavogt.com/mapping and can be obtained by emailing mvogt@psi.edu). These files (sslong0_gam.sav, sslong10_jrm09.sav, etc.) are read by mapping_function2024.pro and should be placed in an appropriate directory - see line 233 of mapping_function2024.pro (replace ‘Documents/mapping_function_files/’ as appropriate)
+* A set of precalculated contour files (IDL .sav format) that can be downloaded at bit.ly/mappingfiles2024 (updated links will be posted on www.marissavogt.com/mapping and can be obtained by emailing mvogt@psi.edu). These files (sslong0_gam.sav, sslong10_jrm09.sav, etc.) are read by mapping_function2024.pro and should be placed in an appropriate directory - see line 233 of mapping_function2024.pro (replace ‘Documents/mapping_function_files/’ as appropriate)
 
 
 See comments at the beginning of mapping_function2024.pro for detailed instructions on how to use the program.
